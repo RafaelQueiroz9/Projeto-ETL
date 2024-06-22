@@ -1,3 +1,10 @@
+/*
+
+Essas operações de inserção garantem que os dados da base Camada_bruta sejam organizados e armazenados nas tabelas específicas do banco de dados Recursos_Humanos,
+permitindo uma análise mais eficiente e estruturada dos dados dos funcionários.
+
+*/
+
 USE Recursos_Humanos
 
 -- Inserir dados na tabela Employees

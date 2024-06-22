@@ -1,3 +1,11 @@
+/*
+
+Esse conjunto de comandos SQL realiza o tratamento inicial dos dados após sua carga no SQL Server.
+Ele altera os tipos de dados das colunas para VARCHAR para poder armazenar categorias textuais após a transformação e atualiza os valores dessas colunas com base nas categorias especificadas
+(como educação, satisfação no trabalho, etc.). Essa transformação é essencial para preparar os dados para análises e visualizações posteriormente no Power BI.
+
+*/
+
 USE Recursos_Humanos
 GO
 

@@ -1,3 +1,7 @@
+
+--Essa view permite que você explore os dados de maneira mais eficiente e centralizada, integrando diferentes aspectos do perfil e história dos funcionários em um único conjunto de resultados.
+
+
 USE Recursos_Humanos
 GO
 

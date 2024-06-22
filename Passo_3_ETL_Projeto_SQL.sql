@@ -1,5 +1,14 @@
+/*
+
+Essas tabelas foram projetadas para organizar e relacionar os dados de recursos humanos de forma eficiente.
+Cada tabela possui uma chave primária (PRIMARY KEY) que é o EMPLOYEE_ID, garantindo a integridade referencial com a tabela EMPLOYEES. 
+Isso facilitará a análise e extração de insights através de ferramentas como o Power BI, permitindo uma visualização clara e detalhada das informações dos funcionários da empresa.
+
+*/
+
 use Recursos_Humanos
 go
+
 
 SELECT DISTINCT *
 FROM Camada_bruta
