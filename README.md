@@ -1,10 +1,10 @@
 # Projeto-ETL
  Projeto de análise de dados envolvendo ETL por meio de Python, SQLServer e Power BI.
 
-##Objetivo 
+## Objetivo 
 Realizar uma análise detalhada dos dados de recursos humanos para identificar padrões relacionados à taxa de rotatividade dos funcionários, oferecendo insights estratégicos para a empresa.
 
-##Passo a Passo:
+## Passo a Passo:
 
     Extração de Dados: Dados foram inicialmente extraídos de um arquivo CSV utilizando Python e carregados em um banco de dados SQL Server para manipulação eficiente.
 
@@ -16,6 +16,6 @@ Realizar uma análise detalhada dos dados de recursos humanos para identificar p
 
     Criação de Visões e Insights: Uma view foi criada no SQL Server para consolidar os dados relevantes e facilitar a visualização das métricas de rotatividade, satisfação e desempenho dos funcionários.
 
-##Conclusão do Projeto
+## Conclusão do Projeto
 
 O projeto resultou em um dashboard interativo no Power BI que permite aos usuários explorar e entender os fatores que influenciam a taxa de rotatividade de funcionários na empresa. A análise proporcionou insights valiosos que podem orientar decisões estratégicas para melhorar a retenção de talentos e o ambiente de trabalho.
