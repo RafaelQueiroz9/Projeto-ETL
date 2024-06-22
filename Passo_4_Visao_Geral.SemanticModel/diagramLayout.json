@@ -1,0 +1,100 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 948.46400428068171,
+            "y": 0
+          },
+          "nodeIndex": "DEPARTAMENTS",
+          "nodeLineageTag": "4b4d6cd8-0a70-4abb-b532-155e4cfbbb91",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 531.27920068033575,
+            "y": 240.40006598977948
+          },
+          "nodeIndex": "EMPLOYEES",
+          "nodeLineageTag": "b58aa59c-162a-4e38-8348-2dd975f0f0e7",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 526.20057196223524,
+            "y": 0
+          },
+          "nodeIndex": "JOBS",
+          "nodeLineageTag": "98486e6f-34af-4269-9838-ff2a60fd973b",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 7
+          },
+          "nodeIndex": "SALARIES",
+          "nodeLineageTag": "557e416d-f122-44f2-90f2-2e1a154bf96d",
+          "size": {
+            "height": 223,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 466
+          },
+          "nodeIndex": "SATISFACTION",
+          "nodeLineageTag": "dfcf9350-1f13-4ce1-8cb3-f561c1965456",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 967.80838021697082,
+            "y": 459.62791541615547
+          },
+          "nodeIndex": "WORK_HISTORY",
+          "nodeLineageTag": "62f3ab7f-c491-46de-b4ab-1c283460ade5",
+          "size": {
+            "height": 260,
+            "width": 234
+          },
+          "zIndex": 5
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}

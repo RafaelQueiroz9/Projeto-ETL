@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Passo_4_Visao_Geral.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

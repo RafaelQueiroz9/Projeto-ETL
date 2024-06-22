@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Passo_4_Visao_Geral"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "14222453-b0f8-4f54-af26-c3fc7e43d4f8"
+  }
+}

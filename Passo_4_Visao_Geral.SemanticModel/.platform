@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Passo_4_Visao_Geral"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "15b5095b-4724-4a67-a0b7-566b3c159960"
+  }
+}

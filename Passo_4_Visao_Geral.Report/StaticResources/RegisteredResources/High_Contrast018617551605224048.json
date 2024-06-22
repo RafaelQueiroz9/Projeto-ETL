@@ -1,0 +1,16 @@
+{
+  "name": "High Contrast",
+  "dataColors": [
+    "#12E2D5",
+    "#FFFFFF",
+    "#0A7CF6",
+    "#15F2C9",
+    "#468473",
+    "#28B7FF",
+    "#212121",
+    "#B5B5B5"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#070f25",
+  "tableAccent": "#0F1934"
+}
